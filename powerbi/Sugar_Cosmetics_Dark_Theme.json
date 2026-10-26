@@ -1,0 +1,148 @@
+{
+  "name": "Sugar Cosmetics Dark",
+  "dataColors": [
+    "#ED93B1",
+    "#F4C0D1",
+    "#5DCAA5",
+    "#EF9F27",
+    "#AFA9EC",
+    "#85B7EB",
+    "#F0997B",
+    "#97C459"
+  ],
+  "background": "#72243E",
+  "backgroundLight": "#8A2F4D",
+  "backgroundNeutral": "#5A1B31",
+  "foreground": "#F4C0D1",
+  "foregroundNeutralSecondary": "#E8B4C8",
+  "foregroundNeutralTertiary": "#B07A90",
+  "tableAccent": "#ED93B1",
+  "textClasses": {
+    "callout": {
+      "fontSize": 24,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#FBEAF0"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#F4C0D1"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#F4C0D1"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#F4C0D1"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#72243E" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#ED93B1" } },
+            "radius": 6
+          }
+        ],
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#F4C0D1" } }
+          }
+        ],
+        "subTitle": [
+          {
+            "fontColor": { "solid": { "color": "#E8B4C8" } }
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": { "solid": { "color": "#F4C0D1" } }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": { "solid": { "color": "#F4C0D1" } },
+            "gridlineColor": { "solid": { "color": "#8A3A58" } }
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#F4C0D1" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#FBEAF0" } },
+            "fontSize": 24
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#E8B4C8" } }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#085041" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#5DCAA5" } },
+            "radius": 6
+          }
+        ],
+        "header": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#9FE1CB" } }
+          }
+        ],
+        "items": [
+          {
+            "fontColor": { "solid": { "color": "#9FE1CB" } },
+            "background": { "solid": { "color": "#0F6E56" } }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#262624" } },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#1B1B1A" } }
+          }
+        ]
+      }
+    }
+  }
+}
