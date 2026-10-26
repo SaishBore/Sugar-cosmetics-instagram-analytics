@@ -87,4 +87,4 @@ docs/         Project write-up
 ## Author
 
 **Saish Bhalchandra Bore**
-[LinkedIn](ADD-YOUR-LINKEDIN-LINK-HERE)
+[LinkedIn](https://www.linkedin.com/in/saish-bore-59068926b)
